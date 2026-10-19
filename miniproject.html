@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Project - Kalkulator Nilai Mahasiswa</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 480px; margin: 30px auto; padding: 0 16px; }
+    .kartu { border: 1px solid #ccc; border-radius: 10px; padding: 16px 20px; }
+    label { display: block; margin-top: 10px; font-weight: bold; }
+    input { width: 100%; padding: 7px; box-sizing: border-box; margin-top: 4px; }
+    button { margin-top: 14px; padding: 8px 16px; cursor: pointer; }
+    #hasil { margin-top: 16px; padding: 10px; border-radius: 6px; }
+    .error { background: #fdecea; color: #b71c1c; }
+    .lulus { background: #e8f5e9; color: #1b5e20; }
+    .gagal { background: #fff3e0; color: #e65100; }
+  </style>
+</head>
+<body>
+  <h1>Kalkulator Nilai Mahasiswa</h1>
+  <p><a href="index.html">&larr; Kembali ke latihan</a></p>
+
+  <div class="kartu">
+    <form id="formNilai" novalidate>
+      <label for="tugas">Nilai Tugas (30%)</label>
+      <input type="number" id="tugas" min="0" max="100" step="any">
+
+      <label for="uts">Nilai UTS (30%)</label>
+      <input type="number" id="uts" min="0" max="100" step="any">
+
+      <label for="uas">Nilai UAS (40%)</label>
+      <input type="number" id="uas" min="0" max="100" step="any">
+
+      <button type="submit">Hitung Nilai Akhir</button>
+      <button type="reset" id="tombolReset">Reset</button>
+    </form>
+    <div id="hasil"></div>
+  </div>
+
+  <script src="minproject.js"></script>
+</body>
+</html>
