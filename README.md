@@ -50,8 +50,8 @@ Lab5Web/
 ### Latihan 1 — Menampilkan output
 Teks pada halaman berubah menjadi "Hello World" melalui `textContent`, dan pesan yang sama tampil di Console. Perbedaannya: output halaman terlihat oleh pengguna, sedangkan Console hanya terlihat oleh pengembang.
 
-![Latihan 1](<img width="1350" height="348" alt="latihan1" src="https://github.com/user-attachments/assets/4c4d03dc-4e18-4da3-a086-d8d448e4fb5a" />
-)
+![Latihan 1] <img width="1350" height="348" alt="latihan1" src="https://github.com/user-attachments/assets/9471f68a-e84f-4e3b-8572-44d7665e87dc" />
+
 
 ### Latihan 2 — Alert dan prompt
 | Skenario | Hasil |
