@@ -52,7 +52,6 @@ Teks pada halaman berubah menjadi "Hello World" melalui `textContent`, dan pesan
 
 ![Latihan 1] <img width="1350" height="348" alt="latihan1" src="https://github.com/user-attachments/assets/9471f68a-e84f-4e3b-8572-44d7665e87dc" />
 
-
 ### Latihan 2 — Alert dan prompt
 | Skenario | Hasil |
 |---|---|
@@ -60,14 +59,12 @@ Teks pada halaman berubah menjadi "Hello World" melalui `textContent`, dan pesan
 | Menekan Cancel | `prompt` mengembalikan `null`, tampil alert "Nama belum diisi." |
 | Input kosong | Tampil alert "Nama belum diisi." |
 
-![Latihan 2](<img width="1350" height="621" alt="latihan2" src="https://github.com/user-attachments/assets/a4ed14a2-c322-4a68-9ca6-05c3896a3014" />
-)
+![Latihan 2] <img width="1350" height="621" alt="latihan2" src="https://github.com/user-attachments/assets/f64c35b7-b4e5-412a-b118-5cda14d36a0e" />
 
 ### Latihan 3 — Function dan operasi aritmetika
 `operasiDasar(9, 4)` menghasilkan: penjumlahan 13, pengurangan 5, perkalian 36, pembagian 2.25, modulus 1. Pembagian dan modulus diberi pengaman agar tidak error saat pembagi 0.
 
-![Latihan 3](<img width="1350" height="773" alt="latihan3" src="https://github.com/user-attachments/assets/9b1fa072-1614-4fde-86aa-d0141b482aeb" />
-)
+![Latihan 3] <img width="1350" height="773" alt="latihan3" src="https://github.com/user-attachments/assets/723b6435-ea85-40e0-919f-319e3bcabdb2" />
 
 ### Latihan 4 — if–else
 | Input | Hasil |
@@ -76,14 +73,12 @@ Teks pada halaman berubah menjadi "Hello World" melalui `textContent`, dan pesan
 | 40 | Belum lulus |
 | abc / kosong / 105 / Cancel | Input nilai tidak valid. |
 
-![Latihan 4](<img width="1350" height="978" alt="latihan4" src="https://github.com/user-attachments/assets/de69ff96-cfef-4372-ae90-5af3d3ab74c5" />
-)
+![Latihan 4] <img width="1350" height="978" alt="latihan4" src="https://github.com/user-attachments/assets/42401e37-4c22-4ba8-8c31-2628cd90283b" />
 
 ### Latihan 5 — switch
 Angka 1 sampai 5 menampilkan "Bilangan satu" sampai "Bilangan lima". Nilai lain menampilkan "Pilihan tidak tersedia".
 
-![Latihan 5](<img width="1350" height="740" alt="latihan5" src="https://github.com/user-attachments/assets/915e6d87-8d5c-4541-9eb0-3ae1cbd6f017" />
-)
+![Latihan 5] <img width="1350" height="740" alt="latihan5" src="https://github.com/user-attachments/assets/abbcbd4c-979c-49df-a0b3-c7747f6dbe2c" />
 
 ### Latihan 6 — Genap atau ganjil
 | Input | Hasil |
@@ -94,20 +89,17 @@ Angka 1 sampai 5 menampilkan "Bilangan satu" sampai "Bilangan lima". Nilai lain 
 | 2.5 | Masukkan bilangan bulat yang valid. |
 | (kosong) | Masukkan bilangan bulat yang valid. |
 
-![Latihan 6](<img width="1350" height="546" alt="latihan6" src="https://github.com/user-attachments/assets/d998c6c9-b80d-45a0-a0cc-8e88b2bee414" />
-)
+![Latihan 6] <img width="1350" height="546" alt="latihan6" src="https://github.com/user-attachments/assets/1c8f382a-b8ab-4c81-a2c6-2685f1325558" />
 
 ### Latihan 7 — Mengubah warna halaman
 Satu function `ubahWarnaLatar(warna)` dipakai oleh tiga tombol (hijau, putih, kuning), sehingga kode tidak berulang.
 
-![Latihan 7](<img width="1350" height="275" alt="latihan7" src="https://github.com/user-attachments/assets/3d8debf2-ea01-445a-807c-82d69551bbdd" />
-)
+![Latihan 7] <img width="1350" height="275" alt="latihan7" src="https://github.com/user-attachments/assets/7d42549a-8e8f-49a2-a27d-fbda8caa3aef" />
 
 ### Latihan 8 — Checkbox menu makanan
 Total harga dihitung ulang setiap checkbox dicentang atau dilepas. Contoh: Ayam Goreng + Tempe + Es Teh Manis = Rp7.500.
 
-![Latihan 8](<img width="1350" height="485" alt="latihan8" src="https://github.com/user-attachments/assets/2e57b93e-6c1e-45e7-8b5a-9d869b1ad768" />
-)
+![Latihan 8] <img width="1350" height="485" alt="latihan8" src="https://github.com/user-attachments/assets/b099d0d0-f5a3-460d-b57b-6842aa4ffca1" />
 
 ## Mini Project — Kalkulator Nilai Mahasiswa
 
@@ -125,51 +117,43 @@ Validasi: input kosong, bukan angka, atau di luar rentang 0–100 menampilkan pe
 
 Tampilan dan Console untuk skenario 1:
 
-![Mini Project](<img width="1350" height="917" alt="miniproject" src="https://github.com/user-attachments/assets/c9ac8bfc-93ce-41b0-954f-2cdd2304ff3b" />
-)
+![Mini Project] <img width="1350" height="917" alt="miniproject" src="https://github.com/user-attachments/assets/76353751-386b-4f63-bb6f-993bb660ef50" />
 
 Kelima skenario di tabel di atas, ditambah dua uji validasi (Tugas kosong dan Tugas 101):
 
-![Skenario Mini Project](<img width="1488" height="2296" alt="miniproject-skenario" src="https://github.com/user-attachments/assets/d4dce9b4-a2f1-4be5-9f0f-9fe63ccf4954" />
-)
+![Skenario Mini Project] <img width="1488" height="2296" alt="miniproject-skenario" src="https://github.com/user-attachments/assets/2be27315-1921-470c-b894-e1053627192e" />
 
 ## Eksperimen Mandiri
 
 ### Eksperimen 1 — Dua nilai dari prompt
 Latihan 3 diubah agar menerima dua nilai dari `prompt()` yang dikonversi ke number (`operasiDariPrompt()`). Contoh input 17 dan 5.
 
-![Eksperimen 1](<img width="1350" height="860" alt="eksperimen1" src="https://github.com/user-attachments/assets/10bfcaac-b3f9-41bc-9337-5c5f37c03f71" />
-)
+![Eksperimen 1] <img width="1350" height="860" alt="eksperimen1" src="https://github.com/user-attachments/assets/20b542d3-6e3c-4006-9343-420a30a99eba" />
 
 ### Eksperimen 2 — Tabel perkalian angka 7
 Perulangan `for` menampilkan 7 x 1 sampai 7 x 10 (`tampilkanTabelPerkalian()`).
 
-![Eksperimen 2](<img width="1350" height="743" alt="eksperimen2" src="https://github.com/user-attachments/assets/7ba9ad95-4ac5-45fe-bcd5-2ea954e4c288" />
-)
+![Eksperimen 2] <img width="1350" height="743" alt="eksperimen2" src="https://github.com/user-attachments/assets/be7e9915-adee-4038-91ce-b0259bb621a8" />
 
 ### Eksperimen 3 — Function `cekGenap(angka)`
 Mengembalikan `true` jika angka genap, `false` jika ganjil.
 
-![Eksperimen 3](<img width="1350" height="506" alt="eksperimen3" src="https://github.com/user-attachments/assets/00e013ab-9047-45ad-a2d5-1bc05f838da4" />
-)
+![Eksperimen 3] <img width="1350" height="506" alt="eksperimen3" src="https://github.com/user-attachments/assets/e9451560-4d3c-4fce-ab55-e7f07f07bfbe" />
 
 ### Eksperimen 4 — Validasi form
 Nama tidak boleh kosong dan nilai harus berada pada rentang 0–100. Ini juga menjawab Tugas nomor 7.
 
-![Eksperimen 4](<img width="1350" height="605" alt="eksperimen4" src="https://github.com/user-attachments/assets/89356d21-11c6-4b5e-9295-6805570826cf" />
-)
+![Eksperimen 4] <img width="1350" height="605" alt="eksperimen4" src="https://github.com/user-attachments/assets/48217d4a-28cc-4e17-a31c-36f20c0a5fa8" />
 
 ### Eksperimen 5 — Tambahan menu
 Latihan 8 ditambah dua menu: Nasi Putih Rp3.000 dan Es Teh Manis Rp2.000. Contoh: Ayam Goreng + Nasi Putih + Es Teh Manis = Rp10.000.
 
-![Eksperimen 5](<img width="1350" height="485" alt="eksperimen5" src="https://github.com/user-attachments/assets/12eb2afb-b559-4bfc-b02a-7c2184151856" />
-)
+![Eksperimen 5] <img width="1350" height="485" alt="eksperimen5" src="https://github.com/user-attachments/assets/4a478d71-bb61-4e32-ae75-bb42f4230152" />
 
 ### Eksperimen 6 — Sembunyikan/tampilkan elemen
 Tombol mengganti `style.display` antara `none` dan `block`. Gambar atas: sebelum diklik, gambar bawah: sesudah diklik.
 
-![Eksperimen 6](<img width="1350" height="488" alt="eksperimen6" src="https://github.com/user-attachments/assets/6b83a183-e18c-421b-9793-a5c750b11c3b" />
-)
+![Eksperimen 6] <img width="1350" height="488" alt="eksperimen6" src="https://github.com/user-attachments/assets/f976dd3c-2ff3-41fd-b40c-84c700198d1e" />
 
 ## Catatan tentang Screenshot
 
